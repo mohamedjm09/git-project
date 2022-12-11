@@ -1,0 +1,36 @@
+#header {
+  border-style: solid;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+}
+#nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(154, 0, 221);
+}
+#about {
+  border-style: solid;
+}
+
+#work {
+  border-style: solid;
+}
+
+#resume {
+  border-style: solid;
+}
+
+#contact {
+  border-style: solid;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+#form {
+  display: flex;
+  flex-direction: column;
+}
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
